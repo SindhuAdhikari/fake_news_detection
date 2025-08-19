@@ -1,0 +1,13 @@
+pickle -model
+
+tailwind css 
+
+boots trap
+
+tail blocks = all section
+
+unsplash api = for image
+
+updraw
+
+py app.py = http://127.0.0.1:5000/
